@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RectangeAreaCal.py" beforeDir="false" afterPath="$PROJECT_DIR$/RectangeAreaCal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestInput.py" afterDir="false" />
-    </list>
+    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775630229244</updated>
-      <workItem from="1775630230244" duration="3483000" />
+      <workItem from="1775630230244" duration="3551000" />
     </task>
     <servers />
   </component>
