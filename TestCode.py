@@ -1,3 +1,5 @@
+import math
+
 print("Hello World")
 
 #String
@@ -33,3 +35,26 @@ print(grade)
 
 grade = bool(grade)#This will return True if it's not empty
 print(grade)
+
+#functions
+def hello_function(name):
+    print(f"Hello {name}!")
+
+def area_rectangle(width, height):
+    return width * height
+
+def area_circle(radius):
+    return math.pi * radius * radius
+
+def area_triangle(side_a, side_b, side_c):
+    return side_a * side_b * side_c
+
+hello_function("Felixander")
+
+first = int(area_rectangle(10, 20))
+second = int(area_circle(10))
+third = int(area_triangle(10, 20, 30))
+
+print(first)
+print(second)
+print(third)
