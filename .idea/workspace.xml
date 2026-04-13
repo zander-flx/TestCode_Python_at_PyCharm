@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775630229244</updated>
       <workItem from="1775630230244" duration="3551000" />
-      <workItem from="1776058921385" duration="2850000" />
+      <workItem from="1776058921385" duration="3639000" />
     </task>
     <servers />
   </component>
@@ -83,7 +82,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$TestInput.coverage" NAME="TestInput Coverage Results" MODIFIED="1775630973005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ActPre_1.coverage" NAME="ActPre_1 Coverage Results" MODIFIED="1775633562205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1776062811886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1776062923995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$TestCode.coverage" NAME="TestCode Coverage Results" MODIFIED="1775631536080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$RectangeAreaCal.coverage" NAME="RectangeAreaCal Coverage Results" MODIFIED="1775632228831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
