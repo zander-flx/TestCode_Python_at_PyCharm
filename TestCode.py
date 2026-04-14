@@ -58,3 +58,8 @@ third = int(area_triangle(10, 20, 30))
 print(first)
 print(second)
 print(third)
+
+def greet(name):
+    print("Hello", name, "!")
+
+greet("Felix")

@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/forLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifStatement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/ActPre2_A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logical.py" beforeDir="false" afterPath="$PROJECT_DIR$/logical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/ActPre2_B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rational.py" beforeDir="false" afterPath="$PROJECT_DIR$/comparison.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +51,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ActPre2_A.executor": "Run",
+    "Python.ActPre2_B.executor": "Run",
     "Python.ActPre_1.executor": "Run",
     "Python.RectangeAreaCal.executor": "Run",
     "Python.TestCode.executor": "Run",
     "Python.TestInput.executor": "Run",
     "Python.arithmetic.executor": "Run",
+    "Python.forLoop.executor": "Run",
+    "Python.ifStatement.executor": "Run",
+    "Python.relational.executor": "Run",
+    "Python.whileLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/Github/TestCode_Python_at_PyCharm",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -59,8 +77,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -73,6 +90,7 @@
       <updated>1775630229244</updated>
       <workItem from="1775630230244" duration="3551000" />
       <workItem from="1776058921385" duration="3639000" />
+      <workItem from="1776175595751" duration="3619000" />
     </task>
     <servers />
   </component>
@@ -80,10 +98,16 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$TestInput.coverage" NAME="TestInput Coverage Results" MODIFIED="1775630973005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ActPre_1.coverage" NAME="ActPre_1 Coverage Results" MODIFIED="1775633562205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$RectangeAreaCal.coverage" NAME="RectangeAreaCal Coverage Results" MODIFIED="1775632228831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ifStatement.coverage" NAME="ifStatement Coverage Results" MODIFIED="1776177516751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$forLoop.coverage" NAME="forLoop Coverage Results" MODIFIED="1776178676479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ActPre2_A.coverage" NAME="ActPre2_A Coverage Results" MODIFIED="1776178876459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1776062923995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$TestCode.coverage" NAME="TestCode Coverage Results" MODIFIED="1775631536080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$RectangeAreaCal.coverage" NAME="RectangeAreaCal Coverage Results" MODIFIED="1775632228831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ActPre2_B.coverage" NAME="ActPre2_B Coverage Results" MODIFIED="1776179148327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$whileLoop.coverage" NAME="whileLoop Coverage Results" MODIFIED="1776178406031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$ActPre_1.coverage" NAME="ActPre_1 Coverage Results" MODIFIED="1775633562205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$relational.coverage" NAME="relational Coverage Results" MODIFIED="1776176798404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$TestInput.coverage" NAME="TestInput Coverage Results" MODIFIED="1775630973005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
