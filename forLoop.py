@@ -4,4 +4,4 @@ for x in range(10):
 
 #using xrange
 for y in range(4,10):
-    print(y)#prints 5-9
+    print(y)#prints 4-9
