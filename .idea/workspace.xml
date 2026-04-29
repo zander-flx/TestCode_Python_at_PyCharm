@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PrelimExam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="Updated 04/29/26 (13:53)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifStatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrelimExam.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrelimExam.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,10 +97,23 @@
       <workItem from="1777379168593" duration="1851000" />
       <workItem from="1777382114945" duration="1944000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated 04/29/26 (13:53)">
+      <option name="closed" value="true" />
+      <created>1777442050135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777442050135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated 04/29/26 (13:53)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 04/29/26 (13:53)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestCode_Python_at_PyCharm$RectangeAreaCal.coverage" NAME="RectangeAreaCal Coverage Results" MODIFIED="1775632228831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
