@@ -43,43 +43,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ActPre2_A.executor": "Run",
-    "Python.ActPre2_B.executor": "Run",
-    "Python.ActPre_1.executor": "Run",
-    "Python.PrelimExam.executor": "Run",
-    "Python.RectangeAreaCal.executor": "Run",
-    "Python.TestCode.executor": "Run",
-    "Python.TestInput.executor": "Run",
-    "Python.arithmetic.executor": "Run",
-    "Python.forLoop.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.ifStatement.executor": "Run",
-    "Python.relational.executor": "Run",
-    "Python.whileLoop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/Github/TestCode_Python_at_PyCharm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ActPre2_A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ActPre2_B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ActPre_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrelimExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RectangeAreaCal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestCode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.relational.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/Github/TestCode_Python_at_PyCharm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
   </component>
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777442050135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated 04/29/26 (13:53)">
+      <option name="closed" value="true" />
+      <created>1777443217786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777443217786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

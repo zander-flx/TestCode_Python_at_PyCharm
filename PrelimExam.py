@@ -77,7 +77,6 @@ while terminate != "x":
     print("Meal 1 = 20\nMeal 2 = 30\nMeal 3 = 40\nMeal 4 = 50\nMeal 5 = 60")
     print("============================")
     select = int(input("Enter your Meal Set: "))
-    amount = int(input("Enter your amount: "))
 
     if select == 1:
         meal1(amount)
@@ -91,4 +90,8 @@ while terminate != "x":
         meal5(amount)
     else:
         print("the menu you selected is not on the list.")
+        continue
+
+    amount = int(input("Enter your amount: "))
+
 
