@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="Updated 04/29/26 (13:53)">
+    <list default="true" id="7d132c9b-3595-42cf-85bc-b71027e52e81" name="Changes" comment="tried changing some syntax.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrelimExam.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrelimExam.py" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
