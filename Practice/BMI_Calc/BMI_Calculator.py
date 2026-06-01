@@ -31,6 +31,7 @@ while True:
                 break
         except ValueError:
             print("Weight must be a number")
+            continue
 
     while True:
         try:
